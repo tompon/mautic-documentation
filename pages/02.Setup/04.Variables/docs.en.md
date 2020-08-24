@@ -40,7 +40,8 @@ See [managing custom fields][custom-field] for more information.
 | Country                                            | `{contactfield=country}`                    |
 | City                                               | `{contactfield=city}`                       |
 | Company                                            | `{contactfield=company}`                    |
-| Email                                              | `{contactfield=email}`                      |
+| Instagram                                          | `{contactfield=instagram}`                  |
+| Contact ID                                         | `{contactfield=id}`                      |
 | Facebook                                           | `{contactfield=facebook}`                   |
 | Fax                                                | `{contactfield=fax}`                        |
 | First Name                                         | `{contactfield=firstname}`                  |
